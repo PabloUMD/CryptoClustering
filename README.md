@@ -1,8 +1,8 @@
 # CryptoClustering
 
-## this code ocntain the solution for the challenge.
+## this code contains the solution for the challenge.
 
-## IK used code from class, and I used chagpt as reference for some issues.
+## I used code from class, and I used chagpt as reference for some issues.
 
 ## Answer the following question:
 # What is the impact of using fewer features to cluster the data using K-Means?
